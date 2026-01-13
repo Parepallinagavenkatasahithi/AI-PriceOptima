@@ -116,16 +116,20 @@ Date:19th nov
 
 ----
 ## 🛠️ **Tools Used**
-- Languages & Libraries:Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn 
+- Languages & Libraries:Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+- Machine Learning: LightGBM, XGBoost, Model Calibration
+- Data Science:Feature Engineering, EDA, 
 - Development Environment: Jupyter Notebook, VS Code
 ### Backend
 -   FastAPI
 -   Uvicorn
 -   Docker
+-   RESTful APIs
 ### Frontend
 -   React.js
 -   Axios
 -   CSS
+-   Responsive UI Design
 
 
 ---
